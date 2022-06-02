@@ -41,4 +41,9 @@ img {
   grid-row: 4;
   color: red;
 }
-
+h1,h3,ul,li,div,h2{
+  color:blue
+}
+p{
+  color:black
+}
